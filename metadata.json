@@ -1,0 +1,6 @@
+{
+  "name": "Soham Academy Admin",
+  "description": "Premium Administrative Dashboard app for Soham Tally Academy, Latur. Manage news feed, view enquries and update portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
